@@ -1,0 +1,91 @@
+.parent{
+
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	display: flex;
+	flex-direction: row;
+	background-color: #99ff66;
+}
+
+.child img{
+	width: 50%;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+.child1{
+
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	width: 30%;
+	border-radius: 10%;
+	text-align: center;
+	background-color:  #ffccff;
+}
+
+
+.child2{
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	width: 30%;
+	border-radius: 10%;
+	background-color:  #ffccff;
+
+}
+
+
+@media only screen and (min-width: 320px)and(max-width: 480px){
+
+	.parent{
+
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	display: flex;
+	flex-direction: row;
+}
+
+.child img{
+	width: 50%;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+.child1{
+
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	width: 94%;
+	border-radius: 10%;
+	text-align: center;
+	background-color: #ddd;
+	font-size: 20px;
+}
+
+
+.child2{
+	border: 2px solid #ddd;
+	margin:1%;
+	padding: 1%;
+	width: 94%;
+	border-radius: 10%;
+	background-color: #ddd;
+	font-size: 20px;
+
+}
+
+} 

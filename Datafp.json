@@ -1,0 +1,53 @@
+{
+	"details":{
+		"image":"pic1.jpg",
+		"name":"sanjay Reddy",
+        "About":"I am a Web Developer",
+        "phone":"01233456789",
+        "email":"useravsr@gmail.com",
+        "address":"chittoor"
+	},
+	"hobbies":["Playing Cricket","Listening Music","Travelling"],
+	
+	"languages":["Python","HTML","CSS","JavaScript","C","Java"],
+    
+    "co":"Dedicated individual willing to assist in the general activities of an organization and looking forward to gain an entry to serve the company and also broaden my experience level for future benefits",
+    "education":[
+      {
+    	"qualification":"B.Tech (CSE)",
+    	"institution":"Sree Vidyanikethan Engineering college(Autonomous),Tirupati ",
+    	"yoc":"2021",
+    	"percentage":"86"
+        },
+      {
+        "qualification":"Intermediate",
+    	"institution":"Sri chaitanya Jrcollege,Tirupati",
+    	"yoc":"2017",
+    	"percentage":"90"	
+        },
+      {
+    	"qualification":"SSC",
+    	"institution":"vinayaka",
+    	"yoc":"2015",
+    	"percentage":"90"
+       }
+    ],
+    "achievements":[
+      {
+        "name":"Certified on Responsive Web Basics: Code with HTML ,CSS and JavaScript in Coursera."
+      },
+      {
+      	"name":"Certified on programming, data structures and algorithms using python."
+
+      },
+      {
+      	"name":"Attended 3 days workshop on AWS held in sree vidyanikethan engineering college."
+      },
+      {
+      	"name":"Certified on Machine Learning By Andrew Ng in Coursera. "
+      }
+
+    ],
+
+    "declaration":"I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief."
+}
